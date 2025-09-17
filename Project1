@@ -1,1 +1,59 @@
+#**Supermarket Sales Report**
+ 
+**Objective of the Project**
+The objective is to analyze sales data to identify trends, understand customer behavior, and improve overall performance. 
+
+**Snapshot of Dashboard (Power BI Service)**
+
+<img width="916" height="513" alt="Image" src="https://github.com/user-attachments/assets/d987ab3c-fb42-409f-a569-3c66575f9195" />
+
+
+**Data Preparation**
+
+Data was cleaned and transformed using Power Query Editor:
+I thoroughly reviewed the dataset to ensure all information was accurate and consistent. The only data quality issue I found was incorrect data types date columns, which I corrected to ensure accurate calculations.
+
+**Analysis and Findings**
+
+The dashboard provides an overview of total sales, including the quantity of products sold and the gross income generated. 
+Average Rating: Customers have rated the overall products at an average of 7.16 out of 10. Sales Trends and Patterns:
+
+**Sales by City:**
+
+Naypyitaw recorded the highest sales with Yangon and Mandalay following closely. This suggests that sales potential is relatively balanced across the three cities.
+
+**Sales by Payment Method:**
+
+Credit cards are the most popular payment method, followed by cash and e-wallets.
+
+**Sales by Time:**
+
+The busiest hours for sales are likely between 10:00 AM and 16:00 PM, based on the graph.
+
+**Customer Type Analysis**
+
+Member/Non-Member:
+Sales from Members 53.16% slightly exceeded those from Normal customers 47.3%, suggesting that both customer groups are vital, but members contribute marginally more to the overall revenue.
+
+**Product Line Sales**
+
+The Health and beauty category achieved the highest sales followed by Sports and travel. This suggests that consumable and lifestyle products are the most popular among customers.
+
+**Branch Performance:**
+
+The dashboard shows that Branch C has the highest profit, followed by Branch A and Branch B.
+
+**Recommendations**
+
+**Focus on High-Demand Products**
+
+Given the high sales in the Health and beauty category, it would be beneficial to prioritize inventory and marketing efforts for these items.
+
+**Optimize Store Hours**
+
+Consider ensuring adequate staffing during the peak sales period to accommodate the customer flow.
+
+**Customer Satisfaction:**
+
+Gathering customer feedback through surveys or reviews can help improve product offerings and customer service.
 
