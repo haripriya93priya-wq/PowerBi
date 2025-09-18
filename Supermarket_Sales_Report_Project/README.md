@@ -1,4 +1,4 @@
-#**Supermarket Sales Report**
+# **Supermarket Sales Report**
 
 **Dashboard Link**:  https://app.powerbi.com/groups/me/reports/1a1be760-a809-4ddf-bb49-51ae89438db7/14ff0ba859cb26743224?experience=power-bi
  
