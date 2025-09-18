@@ -1,20 +1,20 @@
 # **Supermarket Sales Report**
 
-**Dashboard Link**:  https://app.powerbi.com/groups/me/reports/1a1be760-a809-4ddf-bb49-51ae89438db7/14ff0ba859cb26743224?experience=power-bi
+# **Dashboard Link**:  https://app.powerbi.com/groups/me/reports/1a1be760-a809-4ddf-bb49-51ae89438db7/14ff0ba859cb26743224?experience=power-bi
  
-**Objective of the Project**
+# **Objective of the Project**
 The objective is to analyze sales data to identify trends, understand customer behavior, and improve overall performance. 
 
-**Snapshot of Dashboard (Power BI Service)**
+# **Snapshot of Dashboard (Power BI Service)**
 
 <img width="917" height="506" alt="Image" src="https://github.com/user-attachments/assets/0bbb2856-6ed7-4f5a-bd4c-6f401d073d6d" />
 
-**Data Preparation**
+# **Data Preparation**
 
 Data was cleaned and transformed using Power Query Editor:
 I thoroughly reviewed the dataset to ensure all information was accurate and consistent. The only data quality issue I found was incorrect data types date columns, which I corrected to ensure accurate calculations.
 
-**Analysis and Findings**
+# **Analysis and Findings**
 
 The dashboard provides an overview of total sales, including the quantity of products sold and the gross income generated. 
 Average Rating: Customers have rated the overall products at an average of 7.16 out of 10. Sales Trends and Patterns:
@@ -44,7 +44,7 @@ The Health and beauty category achieved the highest sales followed by Sports and
 
 The dashboard shows that Branch C has the highest profit, followed by Branch A and Branch B.
 
-**Recommendations**
+# **Recommendations**
 
 **Focus on High-Demand Products**
 
